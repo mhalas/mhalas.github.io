@@ -1,0 +1,34 @@
+{"frames": [
+    {
+        "filename":"end",
+        "frame": {"x":504,"y":504,"w":70,"h":70},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":0,"h":0},
+		"sourceSize": {"w":0, "h":0}
+    },
+    {
+        "filename":"middle",
+        "frame": {"x":504,"y":576,"w":70,"h":70},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":0,"h":0},
+		"sourceSize": {"w":0, "h":0}
+    },
+    {
+        "filename":"start",
+        "frame": {"x":504,"y":648,"w":70,"h":70},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":0,"h":0},
+		"sourceSize": {"w":0, "h":0}
+	},
+	{
+        "filename":"exitSign",
+        "frame": {"x":288,"y":360,"w":70,"h":70},
+		"rotated": false,
+		"trimmed": true,
+		"spriteSourceSize": {"x":0,"y":0,"w":0,"h":0},
+		"sourceSize": {"w":0, "h":0}
+	}
+]}
